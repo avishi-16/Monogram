@@ -1,0 +1,236 @@
+body{
+    background-image: url('./assets/images/lum3n--RBuQ2PK_L8-unsplash.jpg' );
+    background-size: 100vw;
+    height: 100vh;
+    width: 99vw;
+    background-repeat: no-repeat;
+    margin: 0px;
+    max-width: 96%;
+}
+.first > header{
+    background-color: rgb(236, 170, 192);
+    height: 60px;
+    position: relative;
+    left: 28px;
+    right: 28px;
+    top: 20px;
+}
+.first > header > img{
+    height: 11vh;
+    width: 10vw;
+    position: relative;
+    bottom: 5px;
+    margin: 0px;
+    padding: 0px;
+}
+header > ul{
+    list-style: none;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    position: relative;
+    bottom: 65px;
+    right: 25px;
+    margin: 0px;
+    font-family: sans-serif;
+    font-size: 18px;
+    gap: 20px;
+    color: rgb(212, 72, 72);
+    font-weight: 900;
+    cursor: pointer;
+}
+header > span{
+    font-family: sans-serif;
+    font-size: 21px;
+    color: rgb(212, 72, 72);
+    font-weight: 900;
+    position: relative;
+    bottom: 36px;
+    cursor: pointer;
+}
+.first > h1{
+    color: rgb(211, 95, 95);
+    white-space: pre-wrap;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 150px;
+}
+.first > p{
+    color: rgb(211, 95, 95);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 140px;
+}
+.sec > img{
+    height: 400px;
+    width: 580px;
+    position: relative;
+    top: 650px;
+}
+.detail{
+    white-space: pre-wrap;
+    position: relative;
+    top: 650px;
+    
+}
+.detail > h3{
+    font-size: 16px;
+    font-style: italic;
+    color: black;
+}
+.sec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 30px;
+    gap: 20px;
+}
+.three > img{
+    height: 400px;
+    width: 580px;
+    position: relative;
+    top: 680px;
+}
+.three{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 30px;
+    gap: 20px;
+}
+.det{
+    white-space: pre-wrap;
+}
+.det > h4{
+    position: relative;
+    top: 650px;
+    left: 60px;
+   
+}
+.det{
+    display: flex;
+    gap: 395px;
+}
+.det2 > h4{
+    position: relative;
+    top: 680px;
+    left: 60px;
+   
+}
+.det2{
+    display: flex;
+    gap: 395px;
+}
+.four{
+    position: relative;
+    top:700px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 30px;
+    display: flex;
+    gap: 40px;
+}
+.four > img{
+    height: 280px;
+    width: 350px;
+}
+.five{
+    position: relative;
+    top:740px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 30px;
+    display: flex;
+    gap: 40px;
+}
+.five > img{
+    height: 280px;
+    width: 350px;
+}
+footer{
+    position: relative;
+    left: 28px;
+    top: 850px;
+    background-color: rgb(236, 170, 192);
+    padding-top: 15px;
+    padding-left: 40px;
+    font-family: sans-serif;
+    color: rgb(209, 75, 75);
+    font-style: italic;
+    font-weight: 600;
+}
+footer > ul{
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    display: flex;
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    font-size: 15px;
+}
+footer > div{
+   display: flex;
+  
+   font-size: 15px;
+   display:grid ;
+   grid-template-columns: repeat(5,1fr);
+}
+footer > div > ul{
+    list-style: none;
+    cursor: pointer;
+}
+.box{
+    width: 170px;
+    height: 25px;
+    border: none;
+    outline: none;
+}
+button{
+    height: 35px;
+    width: 80px;
+    border-radius: 50px;
+    font-family: sans-serif;
+    font-weight: 900;
+    color: rgb(209, 75, 75);
+    background-color: white;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    position: relative;
+    left: 955px;
+    bottom: 65px;
+}
+.det3{
+    position: relative;
+    top: 700px;
+    display: flex;
+   justify-content: left;
+   align-items: left;
+   margin-left: 80px;
+   gap: 265px;
+}
+.det4{
+    position: relative;
+    top: 740px;
+    display: flex;
+   justify-content: left;
+   align-items: left;
+   margin-left: 80px;
+   gap: 265px;
+}
+.last{
+    font-size: 13px;
+}
+
+
+
